@@ -3,9 +3,6 @@ built with [React](https://facebook.github.io/react/), [Bootstrap](http://getboo
 [Redux](http://redux.js.org/) and [GraphQL](http://graphql.org/) based on
 [Create React App](https://github.com/facebook/create-react-app) and latest industry best practices.
 
-[View Demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo) | [Download](https://github.com/flatlogic/react-dashboard.git) | [More templates](https://flatlogic.com/templates) | [Support forum](https://flatlogic.com/forum)
-
-[![react-dashboard](screenshot.png)](https://flatlogic.com/admin-dashboards/react-dashboard/demo)
 
 This seed project is a sort of a free version of a template that may be found on
 [Themeforest](https://themeforest.net/category/site-templates/admin-templates)
@@ -35,7 +32,7 @@ local machine by running:
 
 ```shell
 $ git clone -o react-dashboard -b master --single-branch \
-      https://github.com/flatlogic/react-dashboard.git MyApp
+      https://github.com/flyasher/admin-dashboard.git MyApp
 $ cd MyApp
 ```
 
@@ -75,20 +72,6 @@ the module bundler ([Webpack](http://webpack.github.io/)) will recompile the
 app on the fly and refresh all the connected browsers.
 
 For more info please refer to [getting started](./docs/getting-started.md) guide to download and run the project (Node.js >= 6.5)
-
-## Support
-For any additional information please go to our [**support forum**](https://flatlogic.com/forum) and raise your questions or feedback provide there. We highly appreciate your participation!
-
-## How can I support developers?
-- Star our GitHub repo :star:
-- [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20dashboard%20built%20with%20NodeJS,%20React%20and%20Bootstrap!&url=https://github.com/flatlogic/react-dashboard&via=flatlogic).
-- Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
-- Follow [@flatlogic on Twitter](https://twitter.com/flatlogic).
-- Subscribe to Flatlogic newsletter at [flatlogic.com](https://flatlogic.com/)
-- Like our page on [Facebook](https://www.facebook.com/flatlogic/) :thumbsup:
-
-## Premium themes
-Looking for premium themes and templates? Check out more [admin dashboard templates at flatlogic.com](https://flatlogic.com/admin-dashboards).
 
 ## License
 
